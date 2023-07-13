@@ -14,7 +14,7 @@ Projeyi klonladıktan sonra Visual Studi Code programında açınız.
 Linux için:
 ``` 
 cd kodluyoruzilkrepo
-code 
+code .
 ```
 
 ## Contributing
